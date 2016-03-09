@@ -7,7 +7,11 @@
 		"enabled" "1"
 		"xpos"	"0"
 		"ypos"	"0"
+<<<<<<< HEAD
 		"wide"	"f300"
+=======
+		"wide"	"f0"
+>>>>>>> origin/master
 		"tall"	"480"
 	}
 
@@ -21,7 +25,11 @@
 		"ypos"	"c150"	[$WIN32]
 		"ypos_minmode"	"r36"	[$WIN32]
 		"wide"	"110"
+<<<<<<< HEAD
 		"tall"	"60"
+=======
+		"tall"	"45"
+>>>>>>> origin/master
 	}
 	
 	HudObjectiveStatus
@@ -71,6 +79,7 @@
 	
 	HudMedicCharge
 	{
+<<<<<<< HEAD
 		"fieldName" 	"HudMedicAmmo"
 		"visible" 		"1"
 		"enabled" 		"1"
@@ -78,6 +87,19 @@
 		"ypos"			"c150"	[$WIN32]
 		"wide"			"5000"
 		"tall"			"60"
+=======
+		"fieldName"		"HudMedicCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"r138"	[$WIN32]
+		"xpos_minmode"	"r100"	[$WIN32]
+		"ypos"			"r69"	[$WIN32]
+		"ypos_minmode"	"r34"	[$WIN32]
+		"xpos"			"r174"	[$X360]
+		"ypos"			"r90"	[$X360]
+		"wide"			"200"
+		"tall"			"100"
+>>>>>>> origin/master
 	}
 	
 	HudDemomanCharge

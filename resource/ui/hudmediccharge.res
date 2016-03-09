@@ -1,4 +1,5 @@
 "Resource/UI/HudMedicCharge.res"
+<<<<<<< HEAD
 {
 	"MedicBG"
 	{
@@ -39,6 +40,9 @@
 		"draw_corner_height" 	"0"	
 	}
 	
+=======
+{	
+>>>>>>> origin/master
 	"Background"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -48,7 +52,11 @@
 		"zpos"			"0"
 		"wide"			"130"
 		"tall"			"65"
+<<<<<<< HEAD
 		"visible"		"0"
+=======
+		"visible"		"1"
+>>>>>>> origin/master
 		"enabled"		"1"
 		"image"			"../hud/medic_charge_blue_bg"
 		"scaleImage"	"1"	
@@ -60,9 +68,15 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
+<<<<<<< HEAD
 		"xpos"			"10"
 		"xpos_minmode"			"11"
 		"ypos"			"14"
+=======
+		"xpos"			"30"
+		"xpos_minmode"			"11"
+		"ypos"			"24"
+>>>>>>> origin/master
 		"ypos_minmode"			"11"
 		"zpos"			"2"
 		"wide"			"90"
@@ -72,7 +86,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
+<<<<<<< HEAD
 		"labelText"		"#TF_UberchargeMinHUD"
+=======
+		"labelText"		"#TF_Ubercharge"
+		"labelText_minmode"		"#TF_UberchargeMinHUD"
+>>>>>>> origin/master
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -108,9 +127,15 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
+<<<<<<< HEAD
 		"xpos"			"10"
 		"xpos_minmode"			"10"
 		"ypos"			"28"
+=======
+		"xpos"			"30"
+		"xpos_minmode"			"10"
+		"ypos"			"38"
+>>>>>>> origin/master
 		"ypos_minmode"			"23"
 		"zpos"			"2"
 		"wide"			"86"
@@ -216,7 +241,11 @@
 		"ypos"			"17"
 		"wide"			"36"
 		"tall"			"36"
+<<<<<<< HEAD
 		"visible"		"0"
+=======
+		"visible"		"1"
+>>>>>>> origin/master
 		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../hud/ico_health_cluster"

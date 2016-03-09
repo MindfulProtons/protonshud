@@ -6,7 +6,11 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
 		"xpos"			"0"
+<<<<<<< HEAD
 		"ypos"			"14"
+=======
+		"ypos"			"0"
+>>>>>>> origin/master
 		"ypos_minmode"	"18"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -110,9 +114,15 @@
 		"xpos"			"41"	[$X360]
 		"ypos"			"r82"	[$X360]
 		"zpos"			"1"		
+<<<<<<< HEAD
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
+=======
+		"wide"			"109"
+		"tall"			"50"
+		"visible"		"1"
+>>>>>>> origin/master
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"image"				"../hud/character_red_bg_clipped"	
@@ -465,6 +475,9 @@
 			"proportionaltoparent"	"1"
 			"auto_wide_tocontents"	"1"
 		}
+<<<<<<< HEAD
 		
+=======
+>>>>>>> origin/master
 	}
 }

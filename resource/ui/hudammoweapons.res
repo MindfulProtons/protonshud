@@ -46,7 +46,11 @@
 		"fieldName"		"AmmoInClip"
 		"font"			"SuperMario54"
 		"fgcolor"		"255 255 255 255"
+<<<<<<< HEAD
 		"xpos"			"-20"
+=======
+		"xpos"			"-22"
+>>>>>>> origin/master
 		"xpos_minmode"	"8"
 		"ypos"			"0"
 		"ypos_minmode"	"2"
@@ -67,7 +71,11 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"SuperMario54"
 		"fgcolor"		"0 0 0 255"
+<<<<<<< HEAD
 		"xpos"			"-18"
+=======
+		"xpos"			"-20"
+>>>>>>> origin/master
 		"ypos"			"2"
 		"zpos"			"5"
 		"wide"			"100"
@@ -125,6 +133,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
+<<<<<<< HEAD
 		"font"			"SuperMario54"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"5"
@@ -137,6 +146,21 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"	
+=======
+		"font"			"HudFontGiantBold"
+		"fgcolor"		"TanLight"
+		"xpos"			"0"
+		"ypos"			"2"
+		"zpos"			"5"
+		"wide"			"84"
+		"wide_lodef"	"83"
+		"tall"			"40"
+		"tall_minmode"	"36"
+		"tall_lodef"	"45"
+		"visible"		"0"
+		"enabled"		"1"
+		"textAlignment"	"south-east"		
+>>>>>>> origin/master
 		"labelText"		"%Ammo%"
 		
 	}	
@@ -144,6 +168,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
+<<<<<<< HEAD
 		"font"			"SuperMario54"
 		"fgcolor"		"0 0 0 255"
 		"xpos"			"9"
@@ -151,6 +176,20 @@
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"50"
+=======
+		"font"			"HudFontGiantBold"
+		"fgcolor"		"Black"
+		"xpos"			"1"
+		"xpos_hidef"	"2"
+		"xpos_lodef"	"2"
+		"ypos"			"3"
+		"ypos_hidef"	"4"
+		"ypos_lodef"	"4"
+		"zpos"			"5"
+		"wide"			"84"
+		"wide_lodef"	"83"
+		"tall"			"40"
+>>>>>>> origin/master
 		"tall_minmode"	"36"
 		"tall_lodef"	"45"
 		"visible"		"0"
@@ -158,6 +197,7 @@
 		"textAlignment"	"south-east"		
 		"labelText"		"%Ammo%"
 		
+<<<<<<< HEAD
 	}
 	"AmmoBG"
 	{
@@ -196,4 +236,7 @@
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
 	}
+=======
+	}									
+>>>>>>> origin/master
 }

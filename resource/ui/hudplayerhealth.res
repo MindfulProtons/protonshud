@@ -5,14 +5,22 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
+<<<<<<< HEAD
 		"xpos"			"c-300"		[$WIN32]
+=======
+		"xpos"			"c-275"		[$WIN32]
+>>>>>>> origin/master
 		"xpos_minmode"	"-5"		[$WIN32]
 		"ypos"			"c150"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
+<<<<<<< HEAD
 		"wide"			"300"
+=======
+		"wide"			"250"
+>>>>>>> origin/master
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -52,16 +60,33 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
+<<<<<<< HEAD
 		"xpos"			"65"	[$WIN32]
 		"ypos"			"25"	[$WIN32]
 		"zpos"			"0"
+=======
+		"xpos"			"30"	[$WIN32]
+		"xpos_minmode"	"65"	[$WIN32]
+		"xpos"			"83"	[$X360]
+		"ypos"			"-35"	[$WIN32]
+		"ypos_minmode"	"40"	[$WIN32]
+		"ypos"			"43"	[$X360]
+		"zpos"			"5"
+>>>>>>> origin/master
 		"wide"			"0"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
 		"wide"			"35"	[$X360]
 		"tall"			"0"	[$WIN32]
+<<<<<<< HEAD
 		"tall"			"35"	[$X360]
 		"visible"		"1"
 		"enabled"		"1"
+=======
+		"tall_minmode"	"40"	[$WIN32]
+		"tall"			"35"	[$X360]
+		"visible"		"0"
+		"enabled"		"0"
+>>>>>>> origin/master
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
@@ -69,7 +94,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
+<<<<<<< HEAD
 		"xpos"			"40"
+=======
+		"xpos"			"-10"
+>>>>>>> origin/master
 		"xpos_minmode"	"61"
 		"ypos"			"-35"	[$WIN32]
 		"ypos"			"55"	[$X360]
@@ -87,7 +116,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
+<<<<<<< HEAD
 		"xpos"			"44"
+=======
+		"xpos"			"-8"
+>>>>>>> origin/master
 		"xpos_minmode"	"61"
 		"ypos"			"-33"	[$WIN32]
 		"zpos"			"5"
@@ -99,6 +132,7 @@
 		"textAlignment"	"center"	
 		"font"			"SuperMario56"
 		"fgcolor"		"0 0 0 255"
+<<<<<<< HEAD
 	}
 	"TeamIndicator"
 	{
@@ -137,6 +171,9 @@
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 125"
 	}
+=======
+	}		
+>>>>>>> origin/master
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"
